@@ -3,3 +3,4 @@ Resolusi 2021
 - proficient in Node.js framework
 - proficient in PHP programming langauge
 - proficient in Laravel framework 
+- learn new things
