@@ -1,0 +1,5 @@
+Resolusi 2021
+- Proficient in Javascript programming language
+- proficient in Node.js framework
+- proficient in PHP programming langauge
+- proficient in Laravel framework 
